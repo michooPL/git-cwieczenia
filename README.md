@@ -4,7 +4,7 @@
 
 ```sh
 git clone https://github.com/michooPL/git-cwieczenia.git
-
+```
 
 plik informacyjny z instrukcją
 
